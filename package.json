@@ -1,8 +1,8 @@
 {
-  "name": "src",
+  "name": "w10-my-web-api-dandirizkyy",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "description": "---",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
