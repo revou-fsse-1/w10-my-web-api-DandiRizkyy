@@ -28,6 +28,7 @@
 - HTML
 - Tailwindcss
 - Javascript
+- REST API
 
 ## Toolings 🔨
 
