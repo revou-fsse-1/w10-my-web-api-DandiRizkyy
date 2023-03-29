@@ -15,11 +15,26 @@
 - Homepage
 - Admin Page
 
+## Documentation 📋
+
+---
+
+> Under Construction Sir. 🚧
+
 ## Technologies 🚀
+
+---
 
 - HTML
 - Tailwindcss
 - Javascript
+
+## Toolings 🔨
+
+---
+
+- MockAPI
+- Postman
 
 ## Links 🔗
 
