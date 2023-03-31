@@ -703,12 +703,12 @@ video {
   background-color: rgb(248 250 252 / var(--tw-bg-opacity));
 }
 
-.bg-register-background {
-  background-image: url('/assets/cat-background.jpg');
+.bg-homepage-background {
+  background-image: url('https://raw.githubusercontent.com/DandiRizkyy/assets/main/cat-homepage.jpg');
 }
 
-.bg-homepage-background {
-  background-image: url('/assets/cat-homepage.jpg');
+.bg-register-background {
+  background-image: url('https://raw.githubusercontent.com/DandiRizkyy/assets/main/cat-background.jpg');
 }
 
 .bg-cover {

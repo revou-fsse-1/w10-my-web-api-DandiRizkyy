@@ -4,8 +4,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "register-background": "url('/assets/cat-background.jpg')",
-        "homepage-background": "url('/assets/cat-homepage.jpg')",
+        "register-background":
+          "url('https://raw.githubusercontent.com/DandiRizkyy/assets/main/cat-background.jpg')",
+        "homepage-background":
+          "url('https://raw.githubusercontent.com/DandiRizkyy/assets/main/cat-homepage.jpg')",
       },
     },
   },
