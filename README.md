@@ -18,7 +18,7 @@ For this week assignments, im creating a simple website that can connect to API 
 
 ---
 
-> Under Construction Sir. 🚧
+Postman Documentation Links : [Click Here 🐱](https://documenter.getpostman.com/view/24409630/2s93RUtrUA)
 
 ## Technologies 🚀
 
